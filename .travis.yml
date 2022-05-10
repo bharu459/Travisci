@@ -1,4 +1,4 @@
 language: java
 jdk: 
-  - oraclejdk15
+  - openjdk8
 script: mvn clean verify
